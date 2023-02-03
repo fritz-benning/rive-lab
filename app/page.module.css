@@ -9,4 +9,5 @@
 .animation {
   width: 30vw;
   height: 30vw;
+  transform: rotate(45deg);
 }
