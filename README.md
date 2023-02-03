@@ -1,6 +1,6 @@
 ## Rive Lab
 
-A next.js playground for animations created with [Rive](https://https://rive.app/). 🎉
+A next.js playground for animations created with [Rive](https://rive.app/). 🎉
 
 ```bash
 npm run dev
