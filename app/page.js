@@ -1,16 +1,12 @@
 "use client";
-
-import { Inter } from "@next/font/google";
 import Rive from "@rive-app/react-canvas";
 import styles from "./page.module.css";
 
-const inter = Inter({ subsets: ["latin"] });
-
-export default function Home() {
+export default function RivLab() {
   return (
     <main className={styles.main}>
       <div className={styles.animation}>
-        <Rive src="party.riv" />
+        <Rive src="animations/party.riv" />
       </div>
     </main>
   );
