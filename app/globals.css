@@ -1,3 +1,17 @@
 body {
   height: 100vh;
 }
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.animation {
+  width: min(72%, 480px);
+  aspect-ratio: 1 / 1;
+}
